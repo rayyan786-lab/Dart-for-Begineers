@@ -1,0 +1,19 @@
+void main(){
+  //Post Increment
+  var a=4;
+  var b=a++;
+  print(b);
+  //Pre Increment
+  var c=5;
+  var d=++c;
+  print(d);
+  //Remainder
+  var e=8;
+  var f=5;
+  var g=e%f;
+  print(g);
+  //Integer Divide
+  var h=e~/f;
+  print(h);
+   
+}
